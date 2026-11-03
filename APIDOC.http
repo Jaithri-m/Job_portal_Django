@@ -1,0 +1,18 @@
+### 
+GET http://127.0.0.1:8000/applicants/
+Accept: application/json
+
+
+### 
+GET http://127.0.0.1:8000/applicant/1/
+Accept: application/json
+
+
+### 
+GET http://127.0.0.1:8000/selected-applicants/
+Accept: application/json
+
+
+### 
+GET http://127.0.0.1:8000/pending-applicants/
+Accept: application/json
